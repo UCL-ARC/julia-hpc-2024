@@ -2,17 +2,14 @@
 on:
   push:
     branches: "website"
-    tags:
-    - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
 
 name: Generate Website and add as Release
 # Performs the following steps:
 #   - Install all dependencies (and caches them for future runs)
 #   - Builds the website
 #   - Compresses the generated website
-#   - Packages the generated website
-#   - Creates a release based on the originating tag
-#   - Attaches the package to the release
+#   - Pushes the generated website to a different branch, from which it is
+#     published via GitHub Pages
 jobs:
   build:
     name: Generate Website and add as Release
