@@ -62,23 +62,10 @@ jobs:
           terser _site/assets/js/main.js --compress ecma=2015,top_retain=window.conference --mangle --comments false --output _site/assets/js/main.js
 
       - name: Publish
-        run: |
-
-
-
-
-      # - name: Package generated website
-      #   run: |
-      #     cd _site/
-      #     zip -r ../website.zip *
-      #     cd ../
-
-      # - name: Create release
-      #   uses: softprops/action-gh-release@v1
-      #   if: startsWith(github.ref, 'refs/tags/')
-      #   with:
-      #     tag_name: ${{ github.ref }}
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     draft: false
-      #     prerelease: false
-      #     files: ./website.zip
+        uses: s0/git-publish-subdir-action@v2.6.0
+        env:
+          REPO: self
+          BRANCH: website-generated
+          FOLDER: _site
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MESSAGE: "Build: ({sha}) {msg}"
