@@ -61,6 +61,10 @@ jobs:
         run: |
           terser _site/assets/js/main.js --compress ecma=2015,top_retain=window.conference --mangle --comments false --output _site/assets/js/main.js
 
+      - name: Delete duplicate `_site` subdirectory
+        run: |
+          rm -r _site/_site
+
       - name: Publish
         uses: s0/git-publish-subdir-action@v2.6.0
         env:
