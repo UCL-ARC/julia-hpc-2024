@@ -92,7 +92,7 @@ conference:
       #   relative_url: /program/
       # - name: How to get there
       #   relative_url: /location/
-      - name: Tickets
+      - name: Registration
         disabled: true
         absolute_url: ''
 
