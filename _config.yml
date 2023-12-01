@@ -65,23 +65,15 @@ conference:
       name: UCL Centre for Advanced Research Computing
       # img: ''
       url: 'https://www.ucl.ac.uk/advanced-research-computing'
-    links:
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2020 (current)
-            disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+    # links:
+    #   - name: Program
+    #     relative_url: /program/
+    #   - name: Talks
+    #     relative_url: /talks/
+    #   - name: Speakers
+    #     relative_url: /speakers/
+    #   - name: Location
+    #     relative_url: /location/
 
   # Link Preview for Sharing
   link_preview:
