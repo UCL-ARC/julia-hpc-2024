@@ -62,9 +62,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: UCL Centre for Advanced Research Computing
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      url: 'https://www.ucl.ac.uk/advanced-research-computing'
     links:
       - name: Program
         relative_url: /program/
