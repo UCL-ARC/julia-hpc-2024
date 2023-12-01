@@ -38,3 +38,13 @@ Topics of the workshop will be
 
 You can register for this event on Ticket Tailor.
 There is no registration fee.
+
+### Travel support
+
+We have limited availablity to **fund travel** of students or early-career
+researchers who would not be otherwise able to attend the workshop.  We can
+provide refund for travel, accommodation in London and subsistence.  In any case
+refund is limited to **£1,000 per person** and will have to follow UCL Expenses
+policy, get in touch with the organisers for more details.  **Note**: this is
+not available for people based in London, e.g. UCL students and members of
+staff.

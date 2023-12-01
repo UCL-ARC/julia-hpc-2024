@@ -65,15 +65,15 @@ conference:
       name: UCL ARC
       # img: ''
       url: 'https://www.ucl.ac.uk/advanced-research-computing'
-    # links:
+    links:
     #   - name: Program
     #     relative_url: /program/
     #   - name: Talks
     #     relative_url: /talks/
     #   - name: Speakers
     #     relative_url: /speakers/
-    #   - name: Location
-    #     relative_url: /location/
+      - name: Location
+        relative_url: /location/
 
   # Link Preview for Sharing
   link_preview:
