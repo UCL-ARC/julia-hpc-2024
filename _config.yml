@@ -168,7 +168,7 @@ conference:
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page
-    map: true
+    map: false
 
   program:
     # URL of program page
