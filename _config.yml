@@ -2,8 +2,8 @@ title: Conference 2020
 preposition: at
 description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/julia-hpc-2024" # the subpath of your site, e.g. /blog
+url: "https://github-pages.arc.ucl.ac.uk" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
 
