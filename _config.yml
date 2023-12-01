@@ -104,20 +104,20 @@ conference:
         disabled: true
         absolute_url: ''
 
-  # # Information boxes
-  # info_bars:
-  #   - title: Welcome to the Conference Theme for Jekyll!
-  #     color: primary
-  #     main_only: true
-  #     text: |
-  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+  # Information boxes
+  info_bars:
+    - title: Welcome to the Conference Theme for Jekyll!
+      color: primary
+      main_only: true
+      text: |
+        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-  #       ---
+        ---
 
-  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-  #   - text: This is just some random content for demonstration purposes.
-  #     color: warning
-  #     pages_only: true
+        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+    - text: This is just some random content for demonstration purposes.
+      color: warning
+      pages_only: true
 
   # # Live indications
   # live:
@@ -145,40 +145,40 @@ conference:
   #   map_provider: "OpenStreetMap.Mapnik"
   #   default_zoom: 17
 
-  # talks:
-  #   # Talk categories
-  #   main_categories:
-  #     - name: Cat A
-  #       color: info
-  #     - name: Cat B
-  #       color: success
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
 
-  #   # Hide icons on talk overview page
-  #   hide_icons: false
+    # Hide icons on talk overview page
+    hide_icons: false
 
-  # speakers:
-  #   # Show first and last name
-  #   show_firstname: true
+  speakers:
+    # Show first and last name
+    show_firstname: true
 
-  # location:
-  #   # Disable links to locations
-  #   hide: false
-  #   # URL of location / room overview page
-  #   url: '/location'
-  #   # Main page title shown on location/room navigation bar
-  #   navbar_title: 'Location'
-  #   # Show map on location main page
-  #   map: true
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
+    map: true
 
-  # program:
-  #   # URL of program page
-  #   url: '/program'
+  program:
+    # URL of program page
+    url: '/program'
 
-  #   # Time steps in program table
-  #   time_steps: 15 # in minutes
+    # Time steps in program table
+    time_steps: 15 # in minutes
 
-  #   # Show intermediary time steps (next to full hours)
-  #   show_alltimes: true
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true
 
 plugins:
   - jekyll-include-cache
