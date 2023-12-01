@@ -3,9 +3,12 @@ layout: home
 ---
 
 The [UCL Centre for Advanced Research
-Computing](https://www.ucl.ac.uk/advanced-research-computing) is hosting a
-3.5-day Julia for High-Performance Computing workshop, **from February 13th to
-February 16th 2024**.
+Computing](https://www.ucl.ac.uk/advanced-research-computing) is hosting a 4-day
+Julia for High-Performance Computing workshop, **from February 13th to February
+16th 2024**.  Last day will end by 14:00.
+
+This course is open to people with basic programming experience and familiarity
+with UNIX/Linux environments.
 
 ## Venue
 
@@ -16,10 +19,12 @@ situated in 20 Bedford Way, London WC1H 0AL, United Kingdom.  See the
 ## Instructors
 
 * [Dr. Carsten Bauer](speakers/carsten-bauer/) (Paderborn Center for Parallel Computing)
+* [Dr. Mosè Giordano](speakers/mose-giordano/) (UCL ARC)
 
 ## Programme
 
-Topics of the workshop will be
+A more detailed programme will be published in due course.
+The following topics will be covered:
 
 * **Julia fundamentals**
   * Multiple dispatch
