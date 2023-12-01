@@ -1,10 +1,12 @@
 ---
-name: Tolga Philip
-first_name: Tolga
-last_name: Philip
+name: Carsten Bauer
+first_name: Carsten
+last_name: Bauer
 links:
-  - name: Profile
-    absolute_url: https://github.com
+  - name: Personal website
+    absolute_url: http://carstenbauer.eu/
+  - name: GitHub profile
+    absolute_url: https://github.com/carstenbauer
 ---
 
 Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.

@@ -15,7 +15,7 @@ situated in 20 Bedford Way, London WC1H 0AL, United Kingdom.  See the
 
 ## Instructors
 
-* [Dr. Carsten Bauer](https://www.uni-paderborn.de/person/90082) (Paderborn Center for Parallel Computing)
+* [Dr. Carsten Bauer](speakers/carsten-bauer/) (Paderborn Center for Parallel Computing)
 
 ## Programme
 

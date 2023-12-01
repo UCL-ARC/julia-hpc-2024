@@ -70,8 +70,8 @@ conference:
     #     relative_url: /program/
     #   - name: Talks
     #     relative_url: /talks/
-    #   - name: Speakers
-    #     relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
       - name: Location
         relative_url: /location/
 
@@ -90,8 +90,8 @@ conference:
     links:
       # - name: Program
       #   relative_url: /program/
-      # - name: How to get there
-      #   relative_url: /location/
+      - name: How to get there
+        relative_url: /location/
       - name: Registration
         disabled: true
         absolute_url: ''
