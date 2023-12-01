@@ -62,7 +62,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: UCL Centre for Advanced Research Computing
+      name: UCL ARC
       # img: ''
       url: 'https://www.ucl.ac.uk/advanced-research-computing'
     # links:
