@@ -57,7 +57,7 @@ conference:
   lang: en
 
   # Show theme errors:
-  show_errors: True
+  show_errors: False
 
   # Navigation bar
   navigation:
@@ -66,8 +66,8 @@ conference:
       # img: ''
       url: 'https://www.ucl.ac.uk/advanced-research-computing'
     links:
-    #   - name: Program
-    #     relative_url: /program/
+      - name: Program
+        relative_url: /program/
     #   - name: Talks
     #     relative_url: /talks/
       - name: Speakers
@@ -88,13 +88,13 @@ conference:
     # logo:
     #   img: ''
     links:
-      # - name: Program
-      #   relative_url: /program/
+      - name: Program
+        relative_url: /program/
       - name: How to get there
         relative_url: /location/
       - name: Registration
-        disabled: true
-        absolute_url: ''
+        disabled: false
+        absolute_url: 'https://buytickets.at/uclarc/1086021'
 
   # # Information boxes
   # info_bars:
@@ -127,12 +127,12 @@ conference:
       pause:     10  # in seconds
 
   talks:
-    # Talk categories
-    main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
-        color: success
+    # # Talk categories
+    # main_categories:
+    #   - name: Cat A
+    #     color: info
+    #   - name: Cat B
+    #     color: success
 
     # Hide icons on talk overview page
     hide_icons: false
