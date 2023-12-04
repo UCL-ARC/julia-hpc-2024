@@ -2,19 +2,17 @@
 layout: home
 ---
 
-The [UCL Centre for Advanced Research
-Computing](https://www.ucl.ac.uk/advanced-research-computing) is hosting a 4-day
-Julia for High-Performance Computing workshop, **from February 13th to February
-16th 2024**.  Last day will end by 14:00.
-
-This course is open to people with basic programming experience and familiarity
-with UNIX/Linux environments.
+[Julia](https://julialang.org/) is a modern dynamic programming language,
+particularly well suited for numerical and computing.  The [UCL Centre for
+Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing)
+is hosting a 4-day Julia for High-Performance Computing (HPC) workshop, **from
+February 13th to February 16th 2024**.  Last day of the workshop will end by
+14:00.
 
 ## Venue
 
-The workshop will be hosted at the IoE, UCL's Faculty of Education and Society,
-situated in 20 Bedford Way, London WC1H 0AL, United Kingdom.  See the
-[Location](location) page for more details
+The workshop will be hosted at the UCL Institute of Education in London, UK.
+See the [Location](location) page for more details.
 
 ## Instructors
 
@@ -38,6 +36,17 @@ The following topics will be covered:
   * Task-based multithreading
   * Distributed computing (Distributed.jl and MPI.jl)
   * Basic GPU programming
+
+## Target audience
+
+Students and researchers who are interested in numerical computing who want to
+learn how to write high-performance code using the Julia programming language.
+
+## Prerequisites
+
+Attendees are expected to have basic programming experience and familiarity with
+UNIX/Linux environments.  Previous experience with the Julia language and/or HPC
+programming and environments is beneficial, but not required.
 
 ## Registration
 
