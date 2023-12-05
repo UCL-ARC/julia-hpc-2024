@@ -15,6 +15,11 @@ multi-threading, distributed computing and MPI, while also avoiding common
 pitfalls.  Attendees will also learn how to offload computations to NVIDIA GPUs
 in Julia.
 
+The event is supported by UCL ARC through the [Fostering International
+Collaborations in Advanced Digital
+Research](https://www.ucl.ac.uk/advanced-research-computing/fostering-international-collaborations-advanced-digital-research)
+programme.
+
 ## Venue
 
 The workshop will be hosted at the **UCL Institute of Education** in London, UK.
