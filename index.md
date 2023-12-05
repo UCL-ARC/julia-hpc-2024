@@ -22,8 +22,8 @@ See the [Venue](venue) page for more details.
 
 ## Instructors
 
-* [Dr. Carsten Bauer](speakers/carsten-bauer/) (Paderborn Center for Parallel Computing)
-* [Dr. Mosè Giordano](speakers/mose-giordano/) (UCL ARC)
+* [Dr. Carsten Bauer](instructors/carsten-bauer/) (Paderborn Center for Parallel Computing)
+* [Dr. Mosè Giordano](instructors/mose-giordano/) (UCL ARC)
 
 ## Registration
 

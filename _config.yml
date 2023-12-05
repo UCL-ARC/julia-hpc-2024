@@ -28,7 +28,7 @@ collections:
     permalink: /:collection/:title/
   speakers:
     output: true
-    permalink: /:collection/:title/
+    permalink: /instructors/:title/
   rooms:
     output: true
     permalink: /:collection/:title/
@@ -68,20 +68,20 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-    #   - name: Talks
-    #     relative_url: /talks/
-      # - name: Speakers
-      #   relative_url: /speakers/
+      # - name: Talks
+      #   relative_url: /talks/
+      # - name: Instructors
+      #   relative_url: /instructors/
       - name: Venue
         relative_url: /venue/
 
-  # Link Preview for Sharing
-  link_preview:
-    # also adapt "preposition" property at top for more meaningful descriptions
-    disable: false
-    img:
-      twitter: 'twitter_preview.png'      # inside /assets/images/
-      open_graph: 'facebook_preview.png'  # inside /assets/images/
+  # # Link Preview for Sharing
+  # link_preview:
+  #   # also adapt "preposition" property at top for more meaningful descriptions
+  #   disable: true
+  #   img:
+  #     twitter: 'twitter_preview.png'      # inside /assets/images/
+  #     open_graph: 'facebook_preview.png'  # inside /assets/images/
 
   # Main landing page
   main:
