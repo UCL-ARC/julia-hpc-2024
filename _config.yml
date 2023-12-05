@@ -91,7 +91,7 @@ conference:
       - name: Program
         relative_url: /program/
       - name: Venue
-        relative_url: /location/
+        relative_url: /venue/
       - name: Registration
         disabled: false
         absolute_url: 'https://buytickets.at/uclarc/1086021'
