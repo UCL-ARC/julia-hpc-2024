@@ -94,7 +94,7 @@ conference:
         relative_url: /venue/
       - name: Registration
         disabled: false
-        absolute_url: 'https://app.tickettailor.com/events/uclarc/1086021/r/ws'
+        absolute_url: 'https://buytickets.at/uclarc/1086021/r/ws'
 
   # # Information boxes
   # info_bars:
