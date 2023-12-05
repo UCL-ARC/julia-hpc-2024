@@ -18,13 +18,16 @@ The following topics will be covered:
   * Distributed computing (Distributed.jl and MPI.jl)
   * Basic GPU programming
 
-## Target audience
-
-Students and researchers who are interested in numerical computing who want to
-learn how to write high-performance code using the Julia programming language.
+The workshop will run **from February 13th to February 16th 2024**, the last day
+will end by 14:00.
 
 ## Prerequisites
 
 Attendees are expected to have basic programming experience and familiarity with
 UNIX/Linux environments.  Previous experience with the Julia language and/or HPC
 programming and environments is beneficial, but not required.
+
+## Target audience
+
+Students and researchers who are interested in numerical computing who want to
+learn how to write high-performance code using the Julia programming language.

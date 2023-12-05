@@ -7,8 +7,11 @@ links:
     absolute_url: https://giordano.github.io/
   - name: GitHub profile
     absolute_url: https://github.com/giordano/
+  - name: Research profile on UCL Profiles
+    absolute_url: https://profiles.ucl.ac.uk/70657-mose-giordano/
 ---
 
-Duis at tellus at urna condimentum mattis pellentesque id nibh. In fermentum et sollicitudin ac orci phasellus egestas. Convallis aenean et tortor at risus viverra. Mus mauris vitae ultricies leo integer. Metus dictum at tempor commodo ullamcorper. Sem nulla pharetra diam sit. Eu lobortis elementum nibh tellus molestie nunc.
-
-Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Tellus at urna condimentum mattis. Suspendisse sed nisi lacus sed viverra tellus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nunc eget lorem dolor sed viverra. Id volutpat lacus laoreet non curabitur.
+Mosè Giordano is a Research Software Developer at the [UCL Centre for Advanced
+Research Computing](https://www.ucl.ac.uk/advanced-research-computing).  He has
+been using the Julia programming language and developing several Julia packages
+for over 8 years, especially in the numerical computing domain.

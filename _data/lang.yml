@@ -31,10 +31,10 @@ en:
       soon: soon
       now: now
   location:
-    rooms: Rooms
-    directions: Directions
+    rooms: Venue
+    directions: Venue
     talks: Talks in this room
-    focus_conf: Center map on conference location
+    focus_conf: Center map on workshop location
     focus_me: Show my current location
   program:
     title: Program

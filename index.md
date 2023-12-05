@@ -2,17 +2,23 @@
 layout: home
 ---
 
+The [UCL Centre for Advanced Research
+Computing](https://www.ucl.ac.uk/advanced-research-computing) is hosting a 4-day
+Julia for High-Performance Computing (HPC) course, **from February 13th to
+February 16th 2024**.
+
 [Julia](https://julialang.org/) is a modern dynamic programming language,
-particularly well suited for numerical and computing.  The [UCL Centre for
-Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing)
-is hosting a 4-day Julia for High-Performance Computing (HPC) workshop, **from
-February 13th to February 16th 2024**.  Last day of the workshop will end by
-14:00.
+particularly well suited for numerical and high-performance computing.  Starting
+from the fundamentals of the language, the workshop will go into the details of
+how to effectively write high-performance code in Julia using task-based
+multi-threading, distributed computing and MPI, while also avoiding common
+pitfalls.  Attendees will also learn how to offload computations to NVIDIA GPUs
+in Julia.
 
 ## Venue
 
-The workshop will be hosted at the UCL Institute of Education in London, UK.
-See the [Location](location) page for more details.
+The workshop will be hosted at the **UCL Institute of Education** in London, UK.
+See the [Venue](venue) page for more details.
 
 ## Instructors
 
@@ -28,11 +34,10 @@ There is no registration fee.
 
 We have limited availablity to **fund travel** of students or early-career
 researchers who would not be otherwise able to attend the workshop.  We can
-provide refund for travel, accommodation in London and subsistence.  In any case
-refund is limited to **£1,000 per person** and will have to follow UCL Expenses
-policy, get in touch with the organisers for more details.  **Note**: this is
-not available for people based in London, e.g. UCL students and members of
-staff.
+provide refund for travel, accommodation in London and subsistence for attendees
+from outside of London.  In any case refund is limited to **£1,000 per person**
+and will have to follow UCL Expenses policy, get in touch with the organisers
+for more details.
 
 ## Contact
 
