@@ -8,9 +8,9 @@ Julia for High-Performance Computing (HPC) training course, **from February 13th
 to February 16th 2024**.
 
 [Julia](https://julialang.org/) is a modern dynamic programming language,
-particularly well suited for numerical and high-performance computing.  Starting
-from the fundamentals of the language, the workshop will go into the details of
-how to effectively write high-performance code in Julia using task-based
+particularly well suited for numerical computing and HPC.  Starting from the
+fundamentals of the language, the workshop will go into the details of how to
+effectively write high-performance code in Julia using task-based
 multi-threading, distributed computing and MPI, while also avoiding common
 pitfalls.  Attendees will also learn how to offload computations to NVIDIA GPUs
 in Julia.
@@ -39,10 +39,12 @@ this page.  There is no registration fee.
 
 We have limited availablity to **fund travel** of people who would not otherwise
 be able to attend the workshop.  We can provide refund for travel, accommodation
-and subsistence for attendees from outside of London.  In any case refund is
+and subsistence for attendees based outside of London.  In any case refund is
 limited to **£1,000 per person** and will have to follow UCL Expenses policy,
-get in touch with the organisers for more details.  The outcome of this
-application will be notified by the end of December 2023.
+get in touch with the organisers for more details.  We particularly welcome
+applications from people belonging to underrepresented groups (e.g. gender,
+ethnicity, etc.) in the numerical computing and HPC domains.  The outcome of
+this application will be notified by the end of December 2023.
 
 ## Contact
 

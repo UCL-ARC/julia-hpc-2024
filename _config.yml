@@ -149,7 +149,7 @@ conference:
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page
-    map: #true
+    map:
       # Initial map center point
       home_coord: 51.52302817944712, -0.12776086804517708
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
