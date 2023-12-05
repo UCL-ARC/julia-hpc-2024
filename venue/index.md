@@ -10,6 +10,15 @@ WC1H 0AL<br/>
 London<br/>
 United Kingdom
 
+## UK visa
+
+If you are coming from outside of the UK and don't have British citizenship, you
+may need a UK visa to enter the country.  Check on the [UK government
+website](https://www.gov.uk/check-uk-visa) whether you need a visa for short
+academic activities in the UK.  Up to February 2024, EU, EEA and Swiss citizens
+should not require a visa for short-term visits.  Unfortunately we will not be
+able to support visa applications this time.
+
 ## Public transport in London
 
 The UCL IoE is in the heart of London, in the Borough of Camden.  London has

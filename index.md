@@ -4,8 +4,8 @@ layout: home
 
 The [UCL Centre for Advanced Research
 Computing](https://www.ucl.ac.uk/advanced-research-computing) is hosting a 4-day
-Julia for High-Performance Computing (HPC) course, **from February 13th to
-February 16th 2024**.
+Julia for High-Performance Computing (HPC) training course, **from February 13th
+to February 16th 2024**.
 
 [Julia](https://julialang.org/) is a modern dynamic programming language,
 particularly well suited for numerical and high-performance computing.  Starting
@@ -27,17 +27,17 @@ See the [Venue](venue) page for more details.
 
 ## Registration
 
-Register via the button at the bottom of this page.
-There is no registration fee.
+[Register](https://buytickets.at/uclarc/1086021) via the button at the bottom of
+this page.  There is no registration fee.
 
 ### Travel support
 
-We have limited availablity to **fund travel** of students or early-career
-researchers who would not be otherwise able to attend the workshop.  We can
-provide refund for travel, accommodation in London and subsistence for attendees
-from outside of London.  In any case refund is limited to **£1,000 per person**
-and will have to follow UCL Expenses policy, get in touch with the organisers
-for more details.
+We have limited availablity to **fund travel** of people who would not otherwise
+be able to attend the workshop.  We can provide refund for travel, accommodation
+and subsistence for attendees from outside of London.  In any case refund is
+limited to **£1,000 per person** and will have to follow UCL Expenses policy,
+get in touch with the organisers for more details.  The outcome of this
+application will be notified by the end of December 2023.
 
 ## Contact
 
