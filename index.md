@@ -27,7 +27,7 @@ See the [Venue](venue) page for more details.
 
 ## Registration
 
-[Register](https://buytickets.at/uclarc/1086021) via the button at the bottom of
+[Register](https://app.tickettailor.com/events/uclarc/1086021/r/ws) via the button at the bottom of
 this page.  There is no registration fee.
 
 ### Travel support
