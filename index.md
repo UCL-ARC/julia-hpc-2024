@@ -37,7 +37,7 @@ this page.  There is no registration fee.
 
 ### Travel support
 
-We have limited availablity to **fund travel** of people who would not otherwise
+We have limited availability to **fund travel** of people who would not otherwise
 be able to attend the workshop.  We can provide refund for travel, accommodation
 and subsistence for attendees based outside of London.  In any case refund is
 limited to **£1,000 per person** and will have to follow UCL Expenses policy,
