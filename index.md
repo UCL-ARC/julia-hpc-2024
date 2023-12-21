@@ -6,6 +6,7 @@ The [UCL Centre for Advanced Research
 Computing](https://www.ucl.ac.uk/advanced-research-computing) is hosting a 4-day
 Julia for High-Performance Computing (HPC) training course, **from February 13th
 to February 16th 2024**.
+This is an **in-person event only**, and **[registration](#registration) is mandatory**, as we have limited capacity in the rooms allocate for the workshop.
 
 [Julia](https://julialang.org/) is a modern dynamic programming language,
 particularly well suited for numerical computing and HPC.  Starting from the
