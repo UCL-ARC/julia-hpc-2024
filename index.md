@@ -30,6 +30,11 @@ See the [Venue](venue) page for more details.
 * [Dr. Carsten Bauer](instructors/carsten-bauer/) (Paderborn Center for Parallel Computing)
 * [Dr. Mosè Giordano](instructors/mose-giordano/) (UCL ARC)
 
+## Material
+
+The learning material for the workshop will be made publicly available.
+We will provide a link in this page after the workshop.
+
 ## Registration
 
 [Register](https://buytickets.at/uclarc/1086021/r/ws) via the button at the bottom of
