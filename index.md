@@ -46,6 +46,9 @@ applications from people belonging to underrepresented groups (e.g. gender,
 ethnicity, etc.) in the numerical computing and HPC domains.  The outcome of
 this application will be notified by the end of December 2023.
 
+**Update (2023-12-21)**: we are no longer taking applications for travel support
+and have selected the people who will receive it.
+
 ## Contact
 
 For any queries contact Mosè Giordano ([`m.giordano@ucl.ac.uk`](mailto:m.giordano@ucl.ac.uk)).
