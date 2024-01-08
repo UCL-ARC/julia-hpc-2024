@@ -19,7 +19,9 @@ in Julia.
 The event is supported by UCL ARC through the [Fostering International
 Collaborations in Advanced Digital
 Research](https://www.ucl.ac.uk/advanced-research-computing/fostering-international-collaborations-advanced-digital-research)
-programme.
+programme.  Computing resources are provided by the [Paderborn Center for
+Parallel Computing (PC²)](https://pc2.uni-paderborn.de/) and the [NHR
+Alliance](https://www.nhr-verein.de/).
 
 ## Venue
 
