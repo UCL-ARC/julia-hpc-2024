@@ -130,7 +130,7 @@ conference:
     # Talk categories
     main_categories:
       - name: "Foundations"
-        color: primary
+        color: warning
       - name: "Single Core"
         color: secondary
       - name: "Node"
@@ -140,7 +140,7 @@ conference:
       - name: "Breaks"
         color: light
       - name: "Exercises"
-        color: warning
+        color: primary
       - name: "Q&A"
         color: info
 
