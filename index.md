@@ -43,6 +43,8 @@ We will provide a link in this page after the workshop.
 [Register](https://buytickets.at/uclarc/1086021/r/ws) via the button at the bottom of
 this page.  There is no registration fee.
 
+**Update (2024-01-30)**: Registration is now closed.
+
 ### Travel support
 
 We have limited availability to **fund travel** of people who would not otherwise
