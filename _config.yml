@@ -113,11 +113,11 @@ conference:
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
+    # date: 01.01.2020
+    timezone: GMT+0
     stop:       240  # in minutes
     streaming:
-      enable: true
+      enable: false
       pause:     60  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
@@ -127,12 +127,22 @@ conference:
       pause:     10  # in seconds
 
   talks:
-    # # Talk categories
-    # main_categories:
-    #   - name: Cat A
-    #     color: info
-    #   - name: Cat B
-    #     color: success
+    # Talk categories
+    main_categories:
+      - name: "Foundations"
+        color: primary
+      - name: "Single Core"
+        color: secondary
+      - name: "Node"
+        color: success
+      - name: "Cluster"
+        color: dark
+      - name: "Breaks"
+        color: light
+      - name: "Exercises"
+        color: warning
+      - name: "Q&A"
+        color: info
 
     # Hide icons on talk overview page
     hide_icons: false

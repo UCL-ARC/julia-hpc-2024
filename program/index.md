@@ -33,3 +33,5 @@ The following topics will be covered:
   * Basic GPU programming
 
 ## Schedule
+
+Times are in the local London (UK) timezone ([GMT, UTC+0](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)).
