@@ -31,7 +31,7 @@ en:
       soon: soon
       now: now
   location:
-    rooms: Venue
+    rooms: Rooms information
     directions: Venue
     talks: Talks in this room
     focus_conf: Center map on workshop location

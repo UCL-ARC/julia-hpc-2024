@@ -3,7 +3,7 @@ days:
   abbr: Tue
   date: 2024-02-13
   rooms:
-  - name: Room A
+  - name: "Room 828"
     talks:
       - name: "Julia for HPC - Fundamentals"
         time_start: "09:00"
@@ -30,7 +30,7 @@ days:
   abbr: Wed
   date: 2024-02-14
   rooms:
-  - name: Room A
+  - name: "Room 828"
     talks:
       - name: "Optimising Performance I"
         time_start: "09:00"
@@ -57,7 +57,7 @@ days:
   abbr: Thu
   date: 2024-02-15
   rooms:
-  - name: Room B
+  - name: "Room 728"
     talks:
       - name: "Multithreading"
         time_start: "09:00"
@@ -84,7 +84,7 @@ days:
   abbr: Fri
   date: 2024-02-16
   rooms:
-  - name: Room B
+  - name: "Room 728"
     talks:
       - name: "Distributed Computing"
         time_start: "09:00"
