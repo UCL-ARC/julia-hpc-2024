@@ -155,7 +155,7 @@ conference:
     # Disable links to locations
     hide: false
     # URL of location / room overview page
-    url: '/rooms'
+    url: '/venue'
     # Main page title shown on location/room navigation bar
     navbar_title: 'Venue information'
     # Show map on location main page
