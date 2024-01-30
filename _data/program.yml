@@ -1,25 +1,106 @@
-days: []
-# - name: Monday
-#   abbr: Mo
-#   date: 2020-01-31
-#   rooms:
-#   - name: Room A
-#     talks:
-#       - name: Vim Impetus Placerat Cotidieque Ad
-#         time_start: '12:00'
-#         time_end: '12:45'
-#       - name: Condimentum Vitae Sapien Pellentesque
-#         time_start: '12:45'
-#         time_end: '13:30'
-
-#   - name: Room B
-#     talks:
-#       - name: Arcu Non Odio
-#         time_start: '12:00'
-#         time_end: '13:00'
-
-#   - name: Room C
-#     talks:
-#       - name: Eu Nisl Nunc Mi Ipsum Faucibus
-#         time_start: '13:30'
-#         time_end: '14:30'
+days:
+- name: "Tuesday 13th"
+  abbr: Tue
+  date: 2024-02-13
+  rooms:
+  - name: Room A
+    talks:
+      - name: "Julia for HPC - Fundamentals"
+        time_start: "09:00"
+        time_end: "10:45"
+      - name: "Break"
+        time_start: "10:45"
+        time_end: "11:00"
+      - name: "Compilation"
+        time_start: "11:00"
+        time_end: "12:30"
+      - name: "Lunch"
+        time_start: "12:30"
+        time_end: "13:30"
+      - name: "Fast & Generic Code"
+        time_start: "13:30"
+        time_end: "15:00"
+      - name: "Break"
+        time_start: "15:00"
+        time_end: "15:30"
+      - name: "Exercises"
+        time_start: "15:30"
+        time_end: "17:00"
+- name: "Wednesday 14th"
+  abbr: Wed
+  date: 2024-02-14
+  rooms:
+  - name: Room A
+    talks:
+      - name: "Optimising Performance I"
+        time_start: "09:00"
+        time_end: "10:45"
+      - name: "Break"
+        time_start: "10:45"
+        time_end: "11:00"
+      - name: "Exercises"
+        time_start: "11:00"
+        time_end: "12:30"
+      - name: "Lunch"
+        time_start: "12:30"
+        time_end: "13:30"
+      - name: "Optimising Performance II"
+        time_start: "13:30"
+        time_end: "15:00"
+      - name: "Break"
+        time_start: "15:00"
+        time_end: "15:30"
+      - name: "Exercises"
+        time_start: "15:30"
+        time_end: "17:00"
+- name: "Thursday 15th"
+  abbr: Thu
+  date: 2024-02-15
+  rooms:
+  - name: Room B
+    talks:
+      - name: "Multithreading"
+        time_start: "09:00"
+        time_end: "10:45"
+      - name: "Break"
+        time_start: "10:45"
+        time_end: "11:00"
+      - name: "Exercises"
+        time_start: "11:00"
+        time_end: "12:30"
+      - name: "Lunch"
+        time_start: "12:30"
+        time_end: "13:30"
+      - name: "GPU Programming"
+        time_start: "13:30"
+        time_end: "15:00"
+      - name: "Break"
+        time_start: "15:00"
+        time_end: "15:30"
+      - name: "Exercises"
+        time_start: "15:30"
+        time_end: "17:00"
+- name: "Friday 16th"
+  abbr: Fri
+  date: 2024-02-16
+  rooms:
+  - name: Room B
+    talks:
+      - name: "Distributed Computing"
+        time_start: "09:00"
+        time_end: "10:45"
+      - name: "Break"
+        time_start: "10:45"
+        time_end: "11:00"
+      - name: "Exercises"
+        time_start: "11:00"
+        time_end: "12:30"
+      - name: "Lunch"
+        time_start: "12:30"
+        time_end: "13:30"
+      - name: "Exercises"
+        time_start: "13:30"
+        time_end: "15:00"
+      - name: "Q&A"
+        time_start: "15:00"
+        time_end: "15:30"

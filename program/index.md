@@ -17,7 +17,6 @@ learn how to write high-performance code using the Julia programming language.
 
 ## Agenda
 
-A more detailed programme will be published in due course.
 The following topics will be covered:
 
 * **Julia fundamentals**
@@ -32,3 +31,5 @@ The following topics will be covered:
   * Task-based multithreading
   * Distributed computing (Distributed.jl and MPI.jl)
   * Basic GPU programming
+
+## Schedule
