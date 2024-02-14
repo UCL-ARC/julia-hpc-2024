@@ -33,10 +33,9 @@ See the [Venue](venue) page for more details.
 * [Dr. Carsten Bauer](instructors/carsten-bauer/) (Paderborn Center for Parallel Computing)
 * [Dr. Mosè Giordano](instructors/mose-giordano/) (UCL ARC)
 
-## Material
+## Course Material
 
-The learning material for the workshop will be made publicly available.
-We will provide a link in this page after the workshop.
+The course material is available on GitHub at [`carstenbauer/JuliaUCL24`](https://github.com/carstenbauer/JuliaUCL24).
 
 ## Registration
 
